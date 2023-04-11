@@ -1,5 +1,5 @@
 # database
-** Database com JSON (Melhorada)**
+**Database com JSON ( Melhorada )**
 
 > Basicamente, este Script faz com que seja adicionado +1 ao valor NUMBER em seu arquivo database.json sempre que o Script for acionado. Não é recomendável > o uso para projetos grandes, porém dá para o gasto em certas ocasiões.
 > Será necessário dois arquivos: database.json e seu arquivo principal (Geralmente nomeado index.js).
